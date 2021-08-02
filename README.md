@@ -1,4 +1,4 @@
-# Cópia do site da Tesla.
+# Devsla
 
-Site criado para treinar responsividade, utilizando HTML/CSS e um pouco de JS.
+Cópia da página principlal do site oficial da Tesla.
 
